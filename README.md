@@ -1,4 +1,5 @@
+- Data Engineering & Analytics master's student at Technical University of Munich
+- main focus on Data/Cloud Engineering
 - 24 years old
-- studying Data Engineering & Analytics masters at Technical University of Munich
 
 gregor.caf@gmail.com
